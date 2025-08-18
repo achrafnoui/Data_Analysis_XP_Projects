@@ -1,4 +1,4 @@
-# Project : :moneybag: Economic Data Analysis Project with Python Pandas :moneybag:
+# Project : :moneybag: EDA analysis on Economic Data from FRED :moneybag:
 this is my first project built from Youtube in Data Analysis
 # :video_camera: Source : [Rob Mulla](https://www.youtube.com/watch?v=R67XuYc9NQ4)
 - Teacher : Rob Mulla
